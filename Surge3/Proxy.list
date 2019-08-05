@@ -402,6 +402,7 @@ DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
+DOMAIN,repo.maven.apache.org
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,rileyguide.com
